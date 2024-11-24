@@ -1,3 +1,7 @@
+
+Created a tile-based game where the user clicks on a specified number of tiles and rolls until all tiles display the same number.
+Technology used : React, Javascript, HTML, CSS.
+Project Link: https://tenziegame-19.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -29,6 +33,3 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Created a tile-based game where the user clicks on a specified number of tiles and rolls until all tiles display the same number.
-Technology used : React, Javascript, HTML, CSS.
- Project Link: https://tenziegame-19.netlify.app/
